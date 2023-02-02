@@ -1,0 +1,29 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  table {
+    font-size: 2em;
+    padding-right: 10px;
+    text-indent: 50px;
+  }
+  h1 {
+    text-align: center;
+    text-indent: 10px;
+    font-weight: arial;
+    color: white;
+    text-indent: 50px;
+  }
+
+  h2 {
+    text-indent: 50px;
+  }
+
+  td :hover {
+    background-color: darkgreen;
+  }
